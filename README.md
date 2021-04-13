@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Software Developer with an aptitude for problem solving and learning. Throughout my career journey I have acquired a knack for UI/UX, fullstack development, and customer facing roles.
+
+My mission is to use all the tools I have acquired in Software Development, my work experiences and my multicultural background to have a significant impact on my team to help improve efficiency and the user experience.
+
+I am looking for a role in a growing company working towards creating new and innovative products that can impact the world in a positive way.
+
+Some hobbies include golf, weightlifting, and solving challanging problems.
